@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+# Repositori Contoh Aplikasi React Redux Toolkit
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Selamat datang di Repositori Contoh Aplikasi React Redux Toolkit! Repositori ini berisi source code terkait dengan implementasi sederhana penghitung (counter) menggunakan React Redux Toolkit.
 
-## Available Scripts
+## Apa itu React Redux Toolkit?
 
-In the project directory, you can run:
+React Redux Toolkit adalah kumpulan alat resmi dari tim Redux untuk mengelola state dalam aplikasi React. Ini menyediakan cara yang lebih mudah dan efisien untuk mengimplementasikan Redux dalam proyek React, termasuk fitur-fitur seperti _slices_, _thunks_, dan alat bantu lainnya.
 
-### `npm start`
+## Isi Repositori
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Repositori ini mencakup implementasi sederhana menggunakan React Redux Toolkit untuk penghitung dengan fitur berikut:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Increment:** Menambah nilai penghitung.
+- **Decrement:** Mengurangi nilai penghitung.
+- **Add by Amount:** Menambah nilai penghitung berdasarkan jumlah tertentu.
+- **Reset:** Mengatur ulang nilai penghitung ke nol.
 
-### `npm test`
+## Cara Menggunakan Repositori Ini
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone repositori ini ke komputer lokal Anda.
+2. Buka terminal dan arahkan ke direktori repositori.
+3. Instal dependensi dengan perintah: `npm install` atau `yarn install`.
+4. Jelajahi source code terkait masing-masing fitur penghitung di direktori yang sesuai.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Terima kasih telah mengunjungi repositori ini! Semoga isi repositori ini dapat bermanfaat untuk menambah wawasan anda tentang penerapan Redux-Toolkit. Dari sini, anda bisa coba menerapkan konsep redux ini ke aplikasi dengan fitur berbeda. Selamat mencoba!
